@@ -6,3 +6,12 @@ menu.addEventListener('click', function() {
     menuLinks.classList.toggle('active')
 }
 )
+
+let sun = document.getElementById("sun");
+sun.onclick = function(){
+    sun.classList.toggle("night")
+}
+function myFunction(){
+    let element = document.body;
+    element.classList.toggle("dark-mode");
+}
