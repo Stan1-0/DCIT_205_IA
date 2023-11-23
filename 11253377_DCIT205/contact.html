@@ -4,8 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UG | Department of Computer Science</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="contact.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body class="bg">
  <!--Nav bar-->
@@ -36,7 +37,26 @@
         </ul>
     </div>
 </nav>
-<!--End of nav bar--> 
+<!--End of nav bar-->
+<!--main-->
+<div class="hero">
+    <form action="">
+        <div class="input-group">
+            <input type="text" id="name" required>
+            <label for="name"> <i class='bx bxs-user'></i> Name</label>
+        </div>
+        <div class="input-group">
+            <input type="email" id="email" required>
+            <label for="email"><i class='bx bx-envelope'></i> Email</label>
+        </div>
+        <div class="input-group">
+            <textarea id="message" rows="8" required></textarea>
+            <label for="message"><i class='bx bx-message-alt'></i> Message</label>
+        </div>
+        <button type="submit">SUBMIT <i class='bx bx-send'></i></button>
+    </form>
+</div>
+<!--End of main--> 
 <!--footer-->
 <footer id="footer">
 
