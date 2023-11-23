@@ -1,65 +1,102 @@
 <!DOCTYPE html>
 <html lang="en">
-<head >
+<head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>UG | Department of Computer Science</title>
-    <link rel="stylesheet" href="login.css">
+    <link rel="stylesheet" href="landing.css">
     <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
-    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
 <body class="bg">
-    <!--Nav bar-->
-    <nav class="navbar">
-        <div class="navbar__container">
-            <a href="/" id="navbar__logo"><img src="./images/comScience_logo.png"></a>
-            <div class="navbar__toggle" id="mobile-menu">
-                <span class="bar"></span>
-                <span class="bar"></span>
-                <span class="bar"></span>
-            </div>
-            <ul class="navbar__menu">
-                <li class="navbar__item">
-                    <a href="index.html" class="navbar__links">HOME</a>
-                </li>
-                <li class="navbar__item">
-                    <a href="about.html" class="navbar__links">ABOUT</a>
-                </li>
-                <li class="navbar__item">
-                    <a href="facility.html" class="navbar__links">FACULTY</a>
-                </li>
-                <li class="navbar__item">
-                    <a href="course.html" class="navbar__links">COURSES</a>
-                </li>             
-            </ul>
+<!--Nav bar-->
+<nav class="navbar">
+    <div class="navbar__container">
+        <a href="/" id="navbar__logo"><img src="./images/comScience_logo.png"></a>
+        <div class="navbar__toggle" id="mobile-menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
         </div>
-    </nav>
-    <!--End of nav bar-->
-    <!--Login form-->
-   <div class="wrapper">
-        <form action="">
-            <h1>Login</h1>
-            <div class="input-box">
-                <input type="text" placeholder="ID" required>
-                <i class='bx bxs-user'></i>
-            </div>
-            <div class="input-box">
-                <input type="Pin" placeholder="Pin" required>
-                <i class='bx bxs-lock-alt'></i>
-            </div>
-            <div class="remember-forget">
-                <label><input type="checkbox"> Remember me</label>
-                <a href="#">Forget password?</a>
-            </div>
-            <button type="submit" class="btn"><a href="landing.html">Login</a></button>
-            <div class="register-link">
-                <p>Don't have an account?
-                <a href="#">Register</a>
-                </p>
-            </div>
-        </form>
-   </div>
-   <footer id="footer">
+        <ul class="navbar__menu">
+            <li class="navbar__item">
+                <a href="index.html" class="navbar__links">HOME</a>
+            </li>
+            <li class="navbar__item">
+                <a href="about.html" class="navbar__links">ABOUT</a>
+            </li>
+            <li class="navbar__item">
+                <a href="facility.html" class="navbar__links">FACULTY</a>
+            </li>
+            <li class="navbar__item">
+                <a href="course.html" class="navbar__links">COURSES</a>
+            </li>             
+        </ul>
+    </div>
+</nav>
+<header>
+    <h1>Student Details</h1>
+</header>
+<main class="grid-container">
+    <article class="featured">
+        <img src="./images/profile-pic.jpg" alt="">
+        <div>
+            <h2>NA</h2>
+            <p>Level: NA</p>
+            <p>ID: NA</p>
+            <p>Programme: NA</p>
+            <p>Gender: NA</p>
+        </div>
+    </article>
+</main>
+    <section class="wrapper-main">
+        <table>
+            <tr>
+                <th>Registered Courses</th>
+                <th>Lecturer</th>
+                <th>Lecture Venue</th>
+                <th>Lecture Time</th>
+            </tr>
+            <tr>
+                <td>DCIT205(Web Design)</td>
+                <td>Nana Aseye</td>
+                <td>JQB19</td>
+                <td>Monday (7:30am - 9:20am)</td>
+            </tr>
+            <tr>
+                <td>DCIT201(Programming)</td>
+                <td>Paul Nii Tackie Ammah</td>
+                <td>LOT2</td>
+                <td>Monday (1:30am - 3:20am)</td>
+            </tr>
+            <tr>
+                <td>DCIT203(Computer Hardware and Logic Cicuit Design)</td>
+                <td>Abdullai-Dwumfour</td>
+                <td>JQB23</td>
+                <td>Wednesday (1:30am - 3:20am)</td>
+            </tr>
+            <tr>
+                <td>DCIT207(Computer Archeitecture)</td>
+                <td>Dr. Ben-Bright Benuwa</td>
+                <td>JQB19</td>
+                <td>Thursday (7:30am - 9:20am)</td>
+            </tr>
+            <tr>
+                <td>DCIT209(E-Business Archeitecture)</td>
+                <td>Dr. Benjamin Ghansah</td>
+                <td>JQB19</td>
+                <td>Thursday (7:30am - 9:20am)</td>
+            </tr>
+            <tr>
+                <td>CBAS210(Academic Writing II)</td>
+                <td>PBA</td>
+                <td>JQB14</td>
+                <td>Monday (9:30am - 11:20am)</td>
+            </tr>
+        </table>
+    </section>
+
+ <!-- Footer -->
+ <footer id="footer">
 
     <div class="footer-top">
       <div class="container">
@@ -119,11 +156,7 @@
         </div>
       </div>
     </div>
-
-    
-  </footer><!-- End Footer -->
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
-    <script src="app.js"></script>
+</footer>
+  <!-- End Footer -->  
 </body>
 </html>

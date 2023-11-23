@@ -1848,10 +1848,10 @@ p, ul, ol, dl, table {
                                 padding: 2em;
                             }
                         
-                                .box.feature {
-                                    background:#8350AA;
-                                    padding: 0;
-                                }
+                            .box.feature {
+                                background:#8350AA;
+                                padding: 0;
+                            }
                         
                                     .box.feature .inner {
                                         padding: 4em 2em 3em 2em;
