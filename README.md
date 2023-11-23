@@ -22,13 +22,13 @@ This website is designed with both students and staff in mind. The website can b
 -Working on this project has helped me develop my HTML and CSS skills
 
 ## Technologies used:
--HTML
--CSS
--JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ## Student Details
-Boateng Stanley Kofi
-ID: 11253377
+- Boateng Stanley Kofi
+- ID: 11253377
 
 
 
