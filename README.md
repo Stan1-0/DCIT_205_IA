@@ -39,7 +39,7 @@ This website is designed with both students and staff in mind. The website can b
 - ![Event Page](<Screenshot (108)-1.png>) 
 - ![Contact page](<Screenshot (109)-1.png>) 
 - ![Landing Page](<Screenshot (110)-1.png>)
-
+- ![International Students Page](<Screenshot (113)-1.png>)
 
 
 
