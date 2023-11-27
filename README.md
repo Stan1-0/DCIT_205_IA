@@ -42,5 +42,7 @@ This website is designed with both students and staff in mind. The website can b
 - ![International Students Page](<Screenshot (113)-1.png>)
 - ![Course Registration Page](<Screenshot (114)-1.png>)
 - ![Home Page](<Web capture_27-11-2023_215619_127.0.0.1-1.jpeg>)
+- ![About Page](<Web capture_27-11-2023_22036_127.0.0.1-1.jpeg>)
+- ![Entry Requirements Page](<Web capture_27-11-2023_22343_127.0.0.1-1.jpeg>)
 
  
