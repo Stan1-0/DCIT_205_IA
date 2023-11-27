@@ -30,20 +30,14 @@ This website is designed with both students and staff in mind. The website can b
 - Boateng Stanley Kofi
 - ID: 11253377
 
-## Screenshots
-- ![Homepage](<Screenshot (103)-1.png>) 
-- ![About Page](<Screenshot (104)-1.png>) 
-- ![Faculty Page](<Screenshot (105)-1.png>) 
-- ![Entry Requirements Page](<Screenshot (106)-1.png>) 
-- ![Login Page](<Screenshot (107)-1.png>) 
-- ![Event Page](<Screenshot (108)-1.png>) 
-- ![Contact page](<Screenshot (109)-1.png>) 
-- ![Landing Page](<Screenshot (110)-1.png>)
-- ![International Students Page](<Screenshot (113)-1.png>)
-- ![Course Registration Page](<Screenshot (114)-1.png>)
+## Screenshots 
 - ![Home Page](<Web capture_27-11-2023_215619_127.0.0.1-1.jpeg>)
 - ![About Page](<Web capture_27-11-2023_22036_127.0.0.1-1.jpeg>)
 - ![Entry Requirements Page](<Web capture_27-11-2023_22343_127.0.0.1-1.jpeg>)
 - ![Faculty Page](<Web capture_27-11-2023_22714_127.0.0.1.jpeg>)
 - ![Login Page](<Web capture_27-11-2023_22929_127.0.0.1.jpeg>)
 - ![Event Page](<Web capture_27-11-2023_221043_127.0.0.1.jpeg>)
+- ![Contact Page](<Web capture_27-11-2023_221441_127.0.0.1.jpeg>)
+- ![Landing Page](<Web capture_27-11-2023_22248_127.0.0.1.jpeg>)
+- ![International Students Page](<Web capture_27-11-2023_221617_127.0.0.1.jpeg>)
+- ![Course Registration Page](<Web capture_27-11-2023_222145_127.0.0.1.jpeg>)

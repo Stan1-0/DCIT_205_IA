@@ -686,6 +686,18 @@ h2, p, h3, h4{
                     margin-bottom: 2em;
                     color: #f6fcee;
                 }
+                .title{
+                    color:#060902;
+                }
+                .details{
+                    color:#060902;
+                }
+                .gender-title{
+                    color:#060902;
+                }
+                .gender-details{
+                    color:#060902;
+                }
                 .navbar{
                     background-color:#060902;
                 }
