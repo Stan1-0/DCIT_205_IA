@@ -44,5 +44,6 @@ This website is designed with both students and staff in mind. The website can b
 - ![Home Page](<Web capture_27-11-2023_215619_127.0.0.1-1.jpeg>)
 - ![About Page](<Web capture_27-11-2023_22036_127.0.0.1-1.jpeg>)
 - ![Entry Requirements Page](<Web capture_27-11-2023_22343_127.0.0.1-1.jpeg>)
-
- 
+- ![Faculty Page](<Web capture_27-11-2023_22714_127.0.0.1.jpeg>)
+- ![Login Page](<Web capture_27-11-2023_22929_127.0.0.1.jpeg>)
+- ![Event Page](<Web capture_27-11-2023_221043_127.0.0.1.jpeg>)
